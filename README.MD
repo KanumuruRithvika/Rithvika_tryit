@@ -26,7 +26,7 @@ Since this is a custom library, clone or copy the source code into your project 
 
 bash
 # Clone this repository or include the file directly
-git clone https://github.com/yourusername/Rithvika_tryit.git
+git clone https://github.com/KanumuruRithvika/Rithvika_tryit.git
 
 
 
@@ -103,7 +103,7 @@ value_counts_all(df)
 
 
 🧑‍💻 Developer
-Pavan Aditya Kumar Gorrela
+Kanumuru Rithvika
 Artificial Intelligence & Data Science | ML & Web Dev Enthusiast
 
 📜 License
